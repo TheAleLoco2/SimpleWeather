@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Weather</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="search_your_city">Search your city</string>
+    <string name="menu_refresh">Refresh</string>
+
+    <!-- Preference Titles -->
+    <string name="weather_header">Weather</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Temperature unit</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="show_notification">Show temperature as notification</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <string name="places_api">AIzaSyBzRd_KHA_FsxeS72q9NWNcsHihVkwBSf4</string>
+    <string name="daily_forecast">Daily forecast</string>
+    <string name="low">Min</string>
+    <string name="high">Max</string>
+    <string name="gps_deactivated">GPS search was disabled</string>
+    <string name="accept_permission">We need you to accept to get your location</string>
+    <string name="location_enable">Your device\'s GPS is disabled</string>
+    <string name="dismiss">Dismiss</string>
+
+    <string name="gps_title">Use gps for forecasting</string>
+    <string name="cardview_gps_txt">You don\'t have a saved city yet, you can search for your location manually or allow us to use your GPS to get your location.</string>
+    <string name="search">Search</string>
+</resources>

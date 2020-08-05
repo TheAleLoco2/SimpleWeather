@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Simple Weather</string>
+    <string name="title_activity_settings">Configuración</string>
+    <string name="search_your_city">Busca tu ciudad</string>
+    <string name="menu_refresh">Actualizar</string>
+
+    <!-- Preference Titles -->
+    <string name="weather_header">Clima</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Unidad de temperatura</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="show_notification">Mostrar temperatura en las notificaciones</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <string name="places_api">AIzaSyBzRd_KHA_FsxeS72q9NWNcsHihVkwBSf4</string>
+    <string name="daily_forecast">Pronóstico diario</string>
+    <string name="low">Min</string>
+    <string name="high">Max</string>
+    <string name="gps_title">Usar GPS para los pronósticos</string>
+    <string name="cardview_gps_txt">Aún no tienes una ciudad guardada, puedes buscar tu localidad manualmente o permitirnos usar el GPS para obtener tu ubicación.</string>
+    <string name="search">Buscar</string>
+    <string name="gps_deactivated">Fue desactivada la búsqueda por GPS</string>
+    <string name="accept_permission">Necesitamos que aceptes para obtener tu ubicación</string>
+    <string name="location_enable">El GPS de tu dispositivo está desactivado</string>
+    <string name="dismiss">Descartar</string>
+
+    <string-array name="units_array">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+
+    <string-array name="units">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+</resources>
